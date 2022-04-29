@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<InstalLog Project="royalgore_refits" Build_date="4/26/2022 9:44:51 PM">
+  <Files>
+    <Directory Path="C:\Program Files (x86)\Steam\steamapps\common\Cyberpunk 2077\archive">
+      <Directory Path="C:\Program Files (x86)\Steam\steamapps\common\Cyberpunk 2077\archive\pc">
+        <Directory Path="C:\Program Files (x86)\Steam\steamapps\common\Cyberpunk 2077\archive\pc\mod">
+          <file>C:\Program Files (x86)\Steam\steamapps\common\Cyberpunk 2077\archive\pc\mod\royalgore_refits.archive</file>
+        </Directory>
+      </Directory>
+    </Directory>
+  </Files>
+</InstalLog>
