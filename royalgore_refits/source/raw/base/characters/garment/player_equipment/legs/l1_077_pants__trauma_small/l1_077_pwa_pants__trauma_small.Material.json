@@ -1,0 +1,1515 @@
+{
+  "MaterialRepo": "D:\\cyberpunk_modding\\008_material_repository",
+  "Materials": [
+    {
+      "Name": "ml_l1_077_ma_pants__trauma_masksset",
+      "BaseMaterial": "engine\\materials\\multilayered.mt",
+      "MaterialTemplate": "engine\\materials\\multilayered.mt",
+      "Data": {
+        "GlobalNormal": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\l1_077_pants__trauma_n01.xbm",
+        "MultilayerMask": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077_ma_pants__trauma_masksset.mlmask",
+        "MultilayerSetup": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077_ma_pants__trauma.mlsetup",
+        "MaskAtlas": null,
+        "MaskTiles": null,
+        "Layers": null,
+        "SurfaceTexAspectRatio": 0,
+        "MaskTileSize": 0,
+        "MaskToTileScale": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "SetupLayerMask": 0,
+        "MaskAtlasDims": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "MaskBaseResolution": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalIntensity": 1,
+        "GlobalNormalUVScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalUVBias": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "LayersStartIndex": 0,
+        "NormalsTextureDDXYMultiplier": 1,
+        "MicroblendsTextureDDXYMultiplier": 1
+      }
+    },
+    {
+      "Name": "dec_stitches",
+      "BaseMaterial": "engine\\materials\\metal_base.remt",
+      "MaterialTemplate": "engine\\materials\\metal_base.remt",
+      "Data": {
+        "BaseColor": "base\\characters\\common\\textures\\decals\\garment_decals_d01.xbm",
+        "Metalness": "engine\\textures\\editor\\black.xbm",
+        "MetalnessScale": 1,
+        "MetalnessBias": 0,
+        "Roughness": "engine\\textures\\editor\\white.xbm",
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "base\\characters\\common\\textures\\decals\\garment_decals_n01.xbm",
+        "AlphaThreshold": 0.38,
+        "Emissive": "engine\\textures\\editor\\black.xbm",
+        "EmissiveColor": {
+          "Red": 0,
+          "Green": 0,
+          "Blue": 0,
+          "Alpha": 255
+        },
+        "LayerTile": 1,
+        "BaseColorScale": {
+          "X": 0.246201,
+          "Y": 0.396755,
+          "Z": 0.246201,
+          "W": 1
+        },
+        "NormalStrength": 1,
+        "EmissiveEV": 0,
+        "EmissiveEVRaytracingBias": 0,
+        "EmissiveDirectionality": 0,
+        "EnableRaytracedEmissive": 1,
+        "EmissiveLift": 0
+      }
+    },
+    {
+      "Name": "ml_l1_077_ma_pants__kang_tao",
+      "BaseMaterial": "engine\\materials\\multilayered.mt",
+      "MaterialTemplate": "engine\\materials\\multilayered.mt",
+      "Data": {
+        "GlobalNormal": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\l1_077_pants__trauma_n01.xbm",
+        "MultilayerMask": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077_ma_pants__trauma_masksset.mlmask",
+        "MultilayerSetup": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077_ma_pants__kang_tao.mlsetup",
+        "MaskAtlas": null,
+        "MaskTiles": null,
+        "Layers": null,
+        "SurfaceTexAspectRatio": 0,
+        "MaskTileSize": 0,
+        "MaskToTileScale": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "SetupLayerMask": 0,
+        "MaskAtlasDims": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "MaskBaseResolution": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalIntensity": 1,
+        "GlobalNormalUVScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalUVBias": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "LayersStartIndex": 0,
+        "NormalsTextureDDXYMultiplier": 1,
+        "MicroblendsTextureDDXYMultiplier": 1
+      }
+    },
+    {
+      "Name": "decal_stitches_kang_tao",
+      "BaseMaterial": "engine\\materials\\metal_base.remt",
+      "MaterialTemplate": "engine\\materials\\metal_base.remt",
+      "Data": {
+        "BaseColor": "base\\characters\\common\\textures\\decals\\garment_decals_d01.xbm",
+        "Metalness": "engine\\textures\\editor\\black.xbm",
+        "MetalnessScale": 1,
+        "MetalnessBias": 0,
+        "Roughness": "engine\\textures\\editor\\grey.xbm",
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "base\\characters\\common\\textures\\decals\\garment_decals_n01.xbm",
+        "AlphaThreshold": 0.38,
+        "Emissive": "engine\\textures\\editor\\black.xbm",
+        "EmissiveColor": {
+          "Red": 0,
+          "Green": 0,
+          "Blue": 0,
+          "Alpha": 255
+        },
+        "LayerTile": 1,
+        "BaseColorScale": {
+          "X": 0.430393,
+          "Y": 0.430393,
+          "Z": 0.430393,
+          "W": 1
+        },
+        "NormalStrength": 1,
+        "EmissiveEV": 0,
+        "EmissiveEVRaytracingBias": 0,
+        "EmissiveDirectionality": 0,
+        "EnableRaytracedEmissive": 1,
+        "EmissiveLift": 0
+      }
+    },
+    {
+      "Name": "dec_stitches_black",
+      "BaseMaterial": "engine\\materials\\metal_base.remt",
+      "MaterialTemplate": "engine\\materials\\metal_base.remt",
+      "Data": {
+        "BaseColor": "base\\characters\\common\\textures\\decals\\garment_decals_d01.xbm",
+        "Metalness": "engine\\textures\\editor\\black.xbm",
+        "MetalnessScale": 1,
+        "MetalnessBias": 0,
+        "Roughness": "engine\\textures\\editor\\white.xbm",
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "base\\characters\\common\\textures\\decals\\garment_decals_n01.xbm",
+        "AlphaThreshold": 0.38,
+        "Emissive": "engine\\textures\\editor\\black.xbm",
+        "EmissiveColor": {
+          "Red": 0,
+          "Green": 0,
+          "Blue": 0,
+          "Alpha": 255
+        },
+        "LayerTile": 1,
+        "BaseColorScale": {
+          "X": 0.063724,
+          "Y": 0.063724,
+          "Z": 0.063724,
+          "W": 1
+        },
+        "NormalStrength": 1,
+        "EmissiveEV": 0,
+        "EmissiveEVRaytracingBias": 0,
+        "EmissiveDirectionality": 0,
+        "EnableRaytracedEmissive": 1,
+        "EmissiveLift": 0
+      }
+    },
+    {
+      "Name": "ml_l1_077_ma_pants__trauma_black_green_old",
+      "BaseMaterial": "engine\\materials\\multilayered.mt",
+      "MaterialTemplate": "engine\\materials\\multilayered.mt",
+      "Data": {
+        "GlobalNormal": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\l1_077_pants__trauma_n01.xbm",
+        "MultilayerMask": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077_ma_pants__trauma_masksset.mlmask",
+        "MultilayerSetup": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077__black_green_old.mlsetup",
+        "MaskAtlas": null,
+        "MaskTiles": null,
+        "Layers": null,
+        "SurfaceTexAspectRatio": 0,
+        "MaskTileSize": 0,
+        "MaskToTileScale": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "SetupLayerMask": 0,
+        "MaskAtlasDims": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "MaskBaseResolution": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalIntensity": 1,
+        "GlobalNormalUVScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalUVBias": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "LayersStartIndex": 0,
+        "NormalsTextureDDXYMultiplier": 1,
+        "MicroblendsTextureDDXYMultiplier": 1
+      }
+    },
+    {
+      "Name": "ml_l1_077_ma_pants__trauma_blue_red_moro",
+      "BaseMaterial": "engine\\materials\\multilayered.mt",
+      "MaterialTemplate": "engine\\materials\\multilayered.mt",
+      "Data": {
+        "GlobalNormal": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\l1_077_pants__trauma_n01.xbm",
+        "MultilayerMask": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077_ma_pants__trauma_masksset.mlmask",
+        "MultilayerSetup": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077__blue_red_moro.mlsetup",
+        "MaskAtlas": null,
+        "MaskTiles": null,
+        "Layers": null,
+        "SurfaceTexAspectRatio": 0,
+        "MaskTileSize": 0,
+        "MaskToTileScale": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "SetupLayerMask": 0,
+        "MaskAtlasDims": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "MaskBaseResolution": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalIntensity": 1,
+        "GlobalNormalUVScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalUVBias": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "LayersStartIndex": 0,
+        "NormalsTextureDDXYMultiplier": 1,
+        "MicroblendsTextureDDXYMultiplier": 1
+      }
+    },
+    {
+      "Name": "dec_stitches_blue",
+      "BaseMaterial": "engine\\materials\\metal_base.remt",
+      "MaterialTemplate": "engine\\materials\\metal_base.remt",
+      "Data": {
+        "BaseColor": "base\\characters\\common\\textures\\decals\\garment_decals_d01.xbm",
+        "Metalness": "engine\\textures\\editor\\black.xbm",
+        "MetalnessScale": 1,
+        "MetalnessBias": 0,
+        "Roughness": "engine\\textures\\editor\\white.xbm",
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "base\\characters\\common\\textures\\decals\\garment_decals_n01.xbm",
+        "AlphaThreshold": 0.38,
+        "Emissive": "engine\\textures\\editor\\black.xbm",
+        "EmissiveColor": {
+          "Red": 0,
+          "Green": 0,
+          "Blue": 0,
+          "Alpha": 255
+        },
+        "LayerTile": 1,
+        "BaseColorScale": {
+          "X": 0.235713,
+          "Y": 0.518626,
+          "Z": 0.532311,
+          "W": 1
+        },
+        "NormalStrength": 1,
+        "EmissiveEV": 0,
+        "EmissiveEVRaytracingBias": 0,
+        "EmissiveDirectionality": 0,
+        "EnableRaytracedEmissive": 1,
+        "EmissiveLift": 0
+      }
+    },
+    {
+      "Name": "ml_l1_077_ma_pants__trauma_black_glossy",
+      "BaseMaterial": "engine\\materials\\multilayered.mt",
+      "MaterialTemplate": "engine\\materials\\multilayered.mt",
+      "Data": {
+        "GlobalNormal": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\l1_077_pants__trauma_n01.xbm",
+        "MultilayerMask": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077_ma_pants__trauma_masksset.mlmask",
+        "MultilayerSetup": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077__green_old.mlsetup",
+        "MaskAtlas": null,
+        "MaskTiles": null,
+        "Layers": null,
+        "SurfaceTexAspectRatio": 0,
+        "MaskTileSize": 0,
+        "MaskToTileScale": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "SetupLayerMask": 0,
+        "MaskAtlasDims": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "MaskBaseResolution": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalIntensity": 1,
+        "GlobalNormalUVScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalUVBias": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "LayersStartIndex": 0,
+        "NormalsTextureDDXYMultiplier": 1,
+        "MicroblendsTextureDDXYMultiplier": 1
+      }
+    },
+    {
+      "Name": "ml_l1_077_ma_pants__trauma_magenta",
+      "BaseMaterial": "engine\\materials\\multilayered.mt",
+      "MaterialTemplate": "engine\\materials\\multilayered.mt",
+      "Data": {
+        "GlobalNormal": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\l1_077_pants__trauma_n01.xbm",
+        "MultilayerMask": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077_ma_pants__trauma_masksset.mlmask",
+        "MultilayerSetup": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077__magenta.mlsetup",
+        "MaskAtlas": null,
+        "MaskTiles": null,
+        "Layers": null,
+        "SurfaceTexAspectRatio": 0,
+        "MaskTileSize": 0,
+        "MaskToTileScale": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "SetupLayerMask": 0,
+        "MaskAtlasDims": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "MaskBaseResolution": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalIntensity": 1,
+        "GlobalNormalUVScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalUVBias": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "LayersStartIndex": 0,
+        "NormalsTextureDDXYMultiplier": 1,
+        "MicroblendsTextureDDXYMultiplier": 1
+      }
+    },
+    {
+      "Name": "ml_l1_077_ma_pants__trauma_brown_leather",
+      "BaseMaterial": "engine\\materials\\multilayered.mt",
+      "MaterialTemplate": "engine\\materials\\multilayered.mt",
+      "Data": {
+        "GlobalNormal": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\l1_077_pants__trauma_n01.xbm",
+        "MultilayerMask": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077_ma_pants__trauma_masksset.mlmask",
+        "MultilayerSetup": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077_brown_leather.mlsetup",
+        "MaskAtlas": null,
+        "MaskTiles": null,
+        "Layers": null,
+        "SurfaceTexAspectRatio": 0,
+        "MaskTileSize": 0,
+        "MaskToTileScale": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "SetupLayerMask": 0,
+        "MaskAtlasDims": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "MaskBaseResolution": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalIntensity": 1,
+        "GlobalNormalUVScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalUVBias": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "LayersStartIndex": 0,
+        "NormalsTextureDDXYMultiplier": 1,
+        "MicroblendsTextureDDXYMultiplier": 1
+      }
+    },
+    {
+      "Name": "ml_l1_077_ma_pants__trauma_gray",
+      "BaseMaterial": "engine\\materials\\multilayered.mt",
+      "MaterialTemplate": "engine\\materials\\multilayered.mt",
+      "Data": {
+        "GlobalNormal": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\l1_077_pants__trauma_n01.xbm",
+        "MultilayerMask": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077_ma_pants__trauma_masksset.mlmask",
+        "MultilayerSetup": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077__gray.mlsetup",
+        "MaskAtlas": null,
+        "MaskTiles": null,
+        "Layers": null,
+        "SurfaceTexAspectRatio": 0,
+        "MaskTileSize": 0,
+        "MaskToTileScale": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "SetupLayerMask": 0,
+        "MaskAtlasDims": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "MaskBaseResolution": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalIntensity": 1,
+        "GlobalNormalUVScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalUVBias": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "LayersStartIndex": 0,
+        "NormalsTextureDDXYMultiplier": 1,
+        "MicroblendsTextureDDXYMultiplier": 1
+      }
+    },
+    {
+      "Name": "arasaka_space",
+      "BaseMaterial": "engine\\materials\\multilayered.mt",
+      "MaterialTemplate": "engine\\materials\\multilayered.mt",
+      "Data": {
+        "GlobalNormal": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\l1_077_pants__trauma_n01.xbm",
+        "MultilayerMask": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077_ma_pants__trauma_masksset.mlmask",
+        "MultilayerSetup": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077_ma_pants__arasaka_space.mlsetup",
+        "MaskAtlas": null,
+        "MaskTiles": null,
+        "Layers": null,
+        "SurfaceTexAspectRatio": 0,
+        "MaskTileSize": 0,
+        "MaskToTileScale": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "SetupLayerMask": 0,
+        "MaskAtlasDims": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "MaskBaseResolution": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalIntensity": 1,
+        "GlobalNormalUVScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalUVBias": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "LayersStartIndex": 0,
+        "NormalsTextureDDXYMultiplier": 1,
+        "MicroblendsTextureDDXYMultiplier": 1
+      }
+    },
+    {
+      "Name": "Arasaka_soldier_2",
+      "BaseMaterial": "engine\\materials\\multilayered.mt",
+      "MaterialTemplate": "engine\\materials\\multilayered.mt",
+      "Data": {
+        "GlobalNormal": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\l1_077_pants__trauma_n01.xbm",
+        "MultilayerMask": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077_ma_pants__trauma_masksset.mlmask",
+        "MultilayerSetup": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077__arasaka_2.mlsetup",
+        "MaskAtlas": null,
+        "MaskTiles": null,
+        "Layers": null,
+        "SurfaceTexAspectRatio": 0,
+        "MaskTileSize": 0,
+        "MaskToTileScale": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "SetupLayerMask": 0,
+        "MaskAtlasDims": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "MaskBaseResolution": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalIntensity": 1,
+        "GlobalNormalUVScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalUVBias": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "LayersStartIndex": 0,
+        "NormalsTextureDDXYMultiplier": 1,
+        "MicroblendsTextureDDXYMultiplier": 1
+      }
+    },
+    {
+      "Name": "Arasaka_white_nocamo",
+      "BaseMaterial": "engine\\materials\\multilayered.mt",
+      "MaterialTemplate": "engine\\materials\\multilayered.mt",
+      "Data": {
+        "GlobalNormal": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\l1_077_pants__trauma_n01.xbm",
+        "MultilayerMask": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077_ma_pants__trauma_masksset.mlmask",
+        "MultilayerSetup": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077__arasaka_soldier_white_nocamo.mlsetup",
+        "MaskAtlas": null,
+        "MaskTiles": null,
+        "Layers": null,
+        "SurfaceTexAspectRatio": 0,
+        "MaskTileSize": 0,
+        "MaskToTileScale": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "SetupLayerMask": 0,
+        "MaskAtlasDims": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "MaskBaseResolution": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalIntensity": 1,
+        "GlobalNormalUVScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalUVBias": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "LayersStartIndex": 0,
+        "NormalsTextureDDXYMultiplier": 1,
+        "MicroblendsTextureDDXYMultiplier": 1
+      }
+    },
+    {
+      "Name": "dec_stitches_pink",
+      "BaseMaterial": "engine\\materials\\metal_base.remt",
+      "MaterialTemplate": "engine\\materials\\metal_base.remt",
+      "Data": {
+        "BaseColor": "base\\characters\\common\\textures\\decals\\garment_decals_d01.xbm",
+        "Metalness": "engine\\textures\\editor\\black.xbm",
+        "MetalnessScale": 1,
+        "MetalnessBias": 0,
+        "Roughness": "engine\\textures\\editor\\white.xbm",
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "base\\characters\\common\\textures\\decals\\garment_decals_n01.xbm",
+        "AlphaThreshold": 0.38,
+        "Emissive": "engine\\textures\\editor\\black.xbm",
+        "EmissiveColor": {
+          "Red": 0,
+          "Green": 0,
+          "Blue": 0,
+          "Alpha": 255
+        },
+        "LayerTile": 1,
+        "BaseColorScale": {
+          "X": 0.651705,
+          "Y": 0.105316,
+          "Z": 0.750818,
+          "W": 1
+        },
+        "NormalStrength": 1,
+        "EmissiveEV": 0,
+        "EmissiveEVRaytracingBias": 0,
+        "EmissiveDirectionality": 0,
+        "EnableRaytracedEmissive": 1,
+        "EmissiveLift": 0
+      }
+    },
+    {
+      "Name": "arasaka_space_2",
+      "BaseMaterial": "engine\\materials\\multilayered.mt",
+      "MaterialTemplate": "engine\\materials\\multilayered.mt",
+      "Data": {
+        "GlobalNormal": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\l1_077_pants__trauma_n01.xbm",
+        "MultilayerMask": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077_ma_pants__trauma_masksset.mlmask",
+        "MultilayerSetup": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077_ma_pants__arasaka_space_2.mlsetup",
+        "MaskAtlas": null,
+        "MaskTiles": null,
+        "Layers": null,
+        "SurfaceTexAspectRatio": 0,
+        "MaskTileSize": 0,
+        "MaskToTileScale": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "SetupLayerMask": 0,
+        "MaskAtlasDims": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "MaskBaseResolution": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalIntensity": 1,
+        "GlobalNormalUVScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalUVBias": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "LayersStartIndex": 0,
+        "NormalsTextureDDXYMultiplier": 1,
+        "MicroblendsTextureDDXYMultiplier": 1
+      }
+    },
+    {
+      "Name": "arasaka_2020",
+      "BaseMaterial": "engine\\materials\\multilayered.mt",
+      "MaterialTemplate": "engine\\materials\\multilayered.mt",
+      "Data": {
+        "GlobalNormal": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\l1_077_pants__trauma_n01.xbm",
+        "MultilayerMask": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077_ma_pants__trauma_masksset.mlmask",
+        "MultilayerSetup": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077__arasaka_2020.mlsetup",
+        "MaskAtlas": null,
+        "MaskTiles": null,
+        "Layers": null,
+        "SurfaceTexAspectRatio": 0,
+        "MaskTileSize": 0,
+        "MaskToTileScale": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "SetupLayerMask": 0,
+        "MaskAtlasDims": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "MaskBaseResolution": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalIntensity": 1,
+        "GlobalNormalUVScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalUVBias": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "LayersStartIndex": 0,
+        "NormalsTextureDDXYMultiplier": 1,
+        "MicroblendsTextureDDXYMultiplier": 1
+      }
+    },
+    {
+      "Name": "dec_stitches_max_tac",
+      "BaseMaterial": "engine\\materials\\metal_base.remt",
+      "MaterialTemplate": "engine\\materials\\metal_base.remt",
+      "Data": {
+        "BaseColor": "base\\characters\\common\\textures\\decals\\garment_decals_d01.xbm",
+        "Metalness": "engine\\textures\\editor\\black.xbm",
+        "MetalnessScale": 1,
+        "MetalnessBias": 0,
+        "Roughness": "engine\\textures\\editor\\white.xbm",
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "base\\characters\\common\\textures\\decals\\garment_decals_n01.xbm",
+        "AlphaThreshold": 0.38,
+        "Emissive": "engine\\textures\\editor\\black.xbm",
+        "EmissiveColor": {
+          "Red": 0,
+          "Green": 0,
+          "Blue": 0,
+          "Alpha": 255
+        },
+        "LayerTile": 1,
+        "BaseColorScale": {
+          "X": 0.039546,
+          "Y": 0.039546,
+          "Z": 0.039546,
+          "W": 1
+        },
+        "NormalStrength": 1,
+        "EmissiveEV": 0,
+        "EmissiveEVRaytracingBias": 0,
+        "EmissiveDirectionality": 0,
+        "EnableRaytracedEmissive": 1,
+        "EmissiveLift": 0
+      }
+    },
+    {
+      "Name": "Arasaka_gray",
+      "BaseMaterial": "engine\\materials\\multilayered.mt",
+      "MaterialTemplate": "engine\\materials\\multilayered.mt",
+      "Data": {
+        "GlobalNormal": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\l1_077_pants__trauma_n01.xbm",
+        "MultilayerMask": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077_ma_pants__trauma_masksset.mlmask",
+        "MultilayerSetup": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077__arasaka_soldier_gray.mlsetup",
+        "MaskAtlas": null,
+        "MaskTiles": null,
+        "Layers": null,
+        "SurfaceTexAspectRatio": 0,
+        "MaskTileSize": 0,
+        "MaskToTileScale": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "SetupLayerMask": 0,
+        "MaskAtlasDims": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "MaskBaseResolution": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalIntensity": 1,
+        "GlobalNormalUVScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalUVBias": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "LayersStartIndex": 0,
+        "NormalsTextureDDXYMultiplier": 1,
+        "MicroblendsTextureDDXYMultiplier": 1
+      }
+    },
+    {
+      "Name": "dec_stitches_red",
+      "BaseMaterial": "engine\\materials\\metal_base.remt",
+      "MaterialTemplate": "engine\\materials\\metal_base.remt",
+      "Data": {
+        "BaseColor": "base\\characters\\common\\textures\\decals\\garment_decals_d01.xbm",
+        "Metalness": "engine\\textures\\editor\\black.xbm",
+        "MetalnessScale": 1,
+        "MetalnessBias": 0,
+        "Roughness": "engine\\textures\\editor\\white.xbm",
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "base\\characters\\common\\textures\\decals\\garment_decals_n01.xbm",
+        "AlphaThreshold": 0.38,
+        "Emissive": "engine\\textures\\editor\\black.xbm",
+        "EmissiveColor": {
+          "Red": 0,
+          "Green": 0,
+          "Blue": 0,
+          "Alpha": 255
+        },
+        "LayerTile": 1,
+        "BaseColorScale": {
+          "X": 0.378441,
+          "Y": 0.089913,
+          "Z": 0.089913,
+          "W": 1
+        },
+        "NormalStrength": 1,
+        "EmissiveEV": 0,
+        "EmissiveEVRaytracingBias": 0,
+        "EmissiveDirectionality": 0,
+        "EnableRaytracedEmissive": 1,
+        "EmissiveLift": 0
+      }
+    },
+    {
+      "Name": "Arasaka_white_leather",
+      "BaseMaterial": "engine\\materials\\multilayered.mt",
+      "MaterialTemplate": "engine\\materials\\multilayered.mt",
+      "Data": {
+        "GlobalNormal": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\l1_077_pants__trauma_n01.xbm",
+        "MultilayerMask": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077_ma_pants__trauma_masksset.mlmask",
+        "MultilayerSetup": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077__arasaka_soldier_white_leather.mlsetup",
+        "MaskAtlas": null,
+        "MaskTiles": null,
+        "Layers": null,
+        "SurfaceTexAspectRatio": 0,
+        "MaskTileSize": 0,
+        "MaskToTileScale": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "SetupLayerMask": 0,
+        "MaskAtlasDims": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "MaskBaseResolution": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalIntensity": 1,
+        "GlobalNormalUVScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalUVBias": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "LayersStartIndex": 0,
+        "NormalsTextureDDXYMultiplier": 1,
+        "MicroblendsTextureDDXYMultiplier": 1
+      }
+    },
+    {
+      "Name": "ml_l1_077_ma_pants_dark_blue",
+      "BaseMaterial": "engine\\materials\\multilayered.mt",
+      "MaterialTemplate": "engine\\materials\\multilayered.mt",
+      "Data": {
+        "GlobalNormal": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\l1_077_pants__trauma_n01.xbm",
+        "MultilayerMask": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077_ma_pants__trauma_masksset.mlmask",
+        "MultilayerSetup": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077_ma_pants__dark.mlsetup",
+        "MaskAtlas": null,
+        "MaskTiles": null,
+        "Layers": null,
+        "SurfaceTexAspectRatio": 0,
+        "MaskTileSize": 0,
+        "MaskToTileScale": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "SetupLayerMask": 0,
+        "MaskAtlasDims": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "MaskBaseResolution": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalIntensity": 1,
+        "GlobalNormalUVScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalUVBias": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "LayersStartIndex": 0,
+        "NormalsTextureDDXYMultiplier": 1,
+        "MicroblendsTextureDDXYMultiplier": 1
+      }
+    },
+    {
+      "Name": "decal_stitches_dark",
+      "BaseMaterial": "engine\\materials\\metal_base.remt",
+      "MaterialTemplate": "engine\\materials\\metal_base.remt",
+      "Data": {
+        "BaseColor": "base\\characters\\common\\textures\\decals\\garment_decals_d01.xbm",
+        "Metalness": "engine\\textures\\editor\\black.xbm",
+        "MetalnessScale": 1,
+        "MetalnessBias": 0,
+        "Roughness": "engine\\textures\\editor\\grey.xbm",
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "base\\characters\\common\\textures\\decals\\garment_decals_n01.xbm",
+        "AlphaThreshold": 0.38,
+        "Emissive": "engine\\textures\\editor\\black.xbm",
+        "EmissiveColor": {
+          "Red": 0,
+          "Green": 0,
+          "Blue": 0,
+          "Alpha": 255
+        },
+        "LayerTile": 1,
+        "BaseColorScale": {
+          "X": 0.292914,
+          "Y": 0.292914,
+          "Z": 0.292914,
+          "W": 1
+        },
+        "NormalStrength": 1,
+        "EmissiveEV": 0,
+        "EmissiveEVRaytracingBias": 0,
+        "EmissiveDirectionality": 0,
+        "EnableRaytracedEmissive": 1,
+        "EmissiveLift": 0
+      }
+    },
+    {
+      "Name": "ml_l1_077_ma_pants__trauma_yellow_pink",
+      "BaseMaterial": "engine\\materials\\multilayered.mt",
+      "MaterialTemplate": "engine\\materials\\multilayered.mt",
+      "Data": {
+        "GlobalNormal": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\l1_077_pants__trauma_n01.xbm",
+        "MultilayerMask": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077_ma_pants__trauma_masksset.mlmask",
+        "MultilayerSetup": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077_ma_pants__trauma_yellow_pink.mlsetup",
+        "MaskAtlas": null,
+        "MaskTiles": null,
+        "Layers": null,
+        "SurfaceTexAspectRatio": 0,
+        "MaskTileSize": 0,
+        "MaskToTileScale": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "SetupLayerMask": 0,
+        "MaskAtlasDims": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "MaskBaseResolution": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalIntensity": 1,
+        "GlobalNormalUVScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalUVBias": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "LayersStartIndex": 0,
+        "NormalsTextureDDXYMultiplier": 1,
+        "MicroblendsTextureDDXYMultiplier": 1
+      }
+    },
+    {
+      "Name": "ml_l1_077_ma_pants__trauma_cyan_purple",
+      "BaseMaterial": "engine\\materials\\multilayered.mt",
+      "MaterialTemplate": "engine\\materials\\multilayered.mt",
+      "Data": {
+        "GlobalNormal": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\l1_077_pants__trauma_n01.xbm",
+        "MultilayerMask": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077_ma_pants__trauma_masksset.mlmask",
+        "MultilayerSetup": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077_ma_pants_cyan_purple.mlsetup",
+        "MaskAtlas": null,
+        "MaskTiles": null,
+        "Layers": null,
+        "SurfaceTexAspectRatio": 0,
+        "MaskTileSize": 0,
+        "MaskToTileScale": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "SetupLayerMask": 0,
+        "MaskAtlasDims": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "MaskBaseResolution": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalIntensity": 1,
+        "GlobalNormalUVScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalUVBias": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "LayersStartIndex": 0,
+        "NormalsTextureDDXYMultiplier": 1,
+        "MicroblendsTextureDDXYMultiplier": 1
+      }
+    },
+    {
+      "Name": "ml_l1_077_ma_pants__trauma_max_tac",
+      "BaseMaterial": "engine\\materials\\multilayered.mt",
+      "MaterialTemplate": "engine\\materials\\multilayered.mt",
+      "Data": {
+        "GlobalNormal": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\l1_077_pants__trauma_n01.xbm",
+        "MultilayerMask": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077_ma_pants__trauma_masksset.mlmask",
+        "MultilayerSetup": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077_ma_pants__max_tac.mlsetup",
+        "MaskAtlas": null,
+        "MaskTiles": null,
+        "Layers": null,
+        "SurfaceTexAspectRatio": 0,
+        "MaskTileSize": 0,
+        "MaskToTileScale": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "SetupLayerMask": 0,
+        "MaskAtlasDims": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "MaskBaseResolution": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalIntensity": 1,
+        "GlobalNormalUVScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalUVBias": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "LayersStartIndex": 0,
+        "NormalsTextureDDXYMultiplier": 1,
+        "MicroblendsTextureDDXYMultiplier": 1
+      }
+    },
+    {
+      "Name": "dec_stitches_white",
+      "BaseMaterial": "engine\\materials\\metal_base.remt",
+      "MaterialTemplate": "engine\\materials\\metal_base.remt",
+      "Data": {
+        "BaseColor": "base\\characters\\common\\textures\\decals\\garment_decals_d01.xbm",
+        "Metalness": "engine\\textures\\editor\\black.xbm",
+        "MetalnessScale": 1,
+        "MetalnessBias": 0,
+        "Roughness": "engine\\textures\\editor\\white.xbm",
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "base\\characters\\common\\textures\\decals\\garment_decals_n01.xbm",
+        "AlphaThreshold": 0.38,
+        "Emissive": "engine\\textures\\editor\\black.xbm",
+        "EmissiveColor": {
+          "Red": 0,
+          "Green": 0,
+          "Blue": 0,
+          "Alpha": 255
+        },
+        "LayerTile": 1,
+        "BaseColorScale": {
+          "X": 0.655931,
+          "Y": 0.62679,
+          "Z": 0.62679,
+          "W": 1
+        },
+        "NormalStrength": 1,
+        "EmissiveEV": 0,
+        "EmissiveEVRaytracingBias": 0,
+        "EmissiveDirectionality": 0,
+        "EnableRaytracedEmissive": 1,
+        "EmissiveLift": 0
+      }
+    },
+    {
+      "Name": "arasaka",
+      "BaseMaterial": "engine\\materials\\multilayered.mt",
+      "MaterialTemplate": "engine\\materials\\multilayered.mt",
+      "Data": {
+        "GlobalNormal": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\l1_077_pants__trauma_n01.xbm",
+        "MultilayerMask": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077_ma_pants__trauma_masksset.mlmask",
+        "MultilayerSetup": "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077__arasaka.mlsetup",
+        "MaskAtlas": null,
+        "MaskTiles": null,
+        "Layers": null,
+        "SurfaceTexAspectRatio": 0,
+        "MaskTileSize": 0,
+        "MaskToTileScale": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "SetupLayerMask": 0,
+        "MaskAtlasDims": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "MaskBaseResolution": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalIntensity": 1,
+        "GlobalNormalUVScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalUVBias": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "LayersStartIndex": 0,
+        "NormalsTextureDDXYMultiplier": 1,
+        "MicroblendsTextureDDXYMultiplier": 1
+      }
+    },
+    {
+      "Name": "dec_stitches2",
+      "BaseMaterial": "engine\\materials\\metal_base.remt",
+      "MaterialTemplate": "engine\\materials\\metal_base.remt",
+      "Data": {
+        "BaseColor": "engine\\textures\\editor\\grey.xbm",
+        "Metalness": "engine\\textures\\editor\\black.xbm",
+        "MetalnessScale": 1,
+        "MetalnessBias": 0,
+        "Roughness": "engine\\textures\\editor\\white.xbm",
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "engine\\textures\\editor\\normal.xbm",
+        "AlphaThreshold": 0.38,
+        "Emissive": "engine\\textures\\editor\\black.xbm",
+        "EmissiveColor": {
+          "Red": 0,
+          "Green": 0,
+          "Blue": 0,
+          "Alpha": 255
+        },
+        "LayerTile": 1,
+        "BaseColorScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "W": 0
+        },
+        "NormalStrength": 1,
+        "EmissiveEV": 0,
+        "EmissiveEVRaytracingBias": 0,
+        "EmissiveDirectionality": 0,
+        "EnableRaytracedEmissive": 1,
+        "EmissiveLift": 0
+      }
+    }
+  ],
+  "TexturesList": [
+    "base\\surfaces\\microblends\\default.xbm",
+    "base\\surfaces\\materials\\fabric\\denim\\denim_clean_01_30.mltemplate",
+    "base\\surfaces\\microblends\\tiles_hex_5x6.xbm",
+    "base\\surfaces\\microblends\\dust_fine.xbm",
+    "base\\surfaces\\microblends\\concrete_wear.xbm",
+    "base\\surfaces\\materials\\fabric\\oxford\\oxford_clean_01_30.mltemplate",
+    "base\\surfaces\\materials\\fabric\\nylon\\nylon_strap_02_10.mltemplate",
+    "base\\surfaces\\microblends\\fine_filth.xbm",
+    "base\\surfaces\\materials\\fabric\\felt\\felt_clean_01_30.mltemplate",
+    "base\\surfaces\\microblends\\lint_01.xbm",
+    "base\\surfaces\\materials\\plastic\\plastic_tech\\plastic_tech_worn_01_300.mltemplate",
+    "base\\surfaces\\microblends\\scratches_and_flakes_a.xbm",
+    "base\\surfaces\\materials\\ground\\dirt_universal\\dirt_universal_01_300.mltemplate",
+    "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\ml_l1_077_ma_pants__trauma_masksset.mlmask",
+    "base\\characters\\garment\\corp_trauma\\unique_trauma\\legs\\l1_077_pants__trauma\\textures\\l1_077_pants__trauma_n01.xbm",
+    "base\\characters\\common\\textures\\decals\\garment_decals_d01.xbm",
+    "base\\characters\\common\\textures\\decals\\garment_decals_n01.xbm",
+    "engine\\textures\\editor\\black.xbm",
+    "engine\\textures\\editor\\white.xbm",
+    "base\\surfaces\\microblends\\tiles_16x16.xbm",
+    "engine\\textures\\editor\\grey.xbm",
+    "base\\surfaces\\materials\\fabric\\canvas\\canvas_clean_01_30.mltemplate",
+    "base\\surfaces\\microblends\\pattern_kitsch_01.xbm",
+    "base\\surfaces\\materials\\plastic\\rubber_bumper\\rubber_bumper_damaged_01_300.mltemplate",
+    "base\\surfaces\\microblends\\cracks.xbm",
+    "base\\surfaces\\materials\\fabric\\leather\\leather_old_02_30.mltemplate",
+    "base\\surfaces\\materials\\fabric\\leather\\leather_rough_01_30.mltemplate",
+    "base\\surfaces\\materials\\special\\unused.mltemplate",
+    "base\\surfaces\\materials\\fabric\\plastic_tarp\\plastic_tarp_01_200.mltemplate",
+    "base\\surfaces\\materials\\plastic\\plastic_tech\\plastic_tech_glossy_01_300.mltemplate",
+    "base\\surfaces\\materials\\fabric\\denim\\denim_camo_01_30.mltemplate",
+    "base\\surfaces\\microblends\\cracks_concrete.xbm",
+    "base\\surfaces\\microblends\\wrinkles_02.xbm",
+    "base\\surfaces\\materials\\fabric\\corduroy\\corduroy_clean_01_30.mltemplate",
+    "base\\surfaces\\materials\\fabric\\carbon_fiber\\carbon_fiber_01_30.mltemplate",
+    "base\\surfaces\\materials\\plastic\\plastic_hq\\plastic_scraped_textured_hq_01_300.mltemplate",
+    "base\\surfaces\\materials\\plastic\\foam\\foam_01_100.mltemplate",
+    "base\\surfaces\\materials\\fabric\\mylar\\mylar_clean_01_30.mltemplate",
+    "base\\surfaces\\materials\\custom\\characters\\denim_neon_01_30.mltemplate",
+    "base\\surfaces\\materials\\custom\\characters\\cotton_shirt_neon_02_30.mltemplate",
+    "base\\surfaces\\materials\\fabric\\cotton_shirt\\cotton_shirt_clean_01_30.mltemplate",
+    "base\\surfaces\\materials\\fabric\\cotton_shirt\\cotton_shirt_clean_02_30.mltemplate",
+    "base\\surfaces\\materials\\fabric\\leather\\leather_bull_01_30.mltemplate",
+    "base\\surfaces\\microblends\\terrain_grass_scrub_01_300_mb.xbm",
+    "base\\surfaces\\materials\\grunge\\stains_oil\\stains_oil_01_100.mltemplate",
+    "base\\surfaces\\materials\\metal\\iron_cast\\iron_cast_01_300.mltemplate",
+    "base\\surfaces\\materials\\fabric\\silk\\silk_clean_01_30.mltemplate",
+    "base\\surfaces\\microblends\\pattern_geometric_01.xbm",
+    "base\\surfaces\\microblends\\dots_03.xbm",
+    "base\\surfaces\\microblends\\pattern_triangle.xbm",
+    "base\\surfaces\\materials\\fabric\\latex\\latex_01_30.mltemplate",
+    "base\\surfaces\\materials\\plastic\\plastic_hq\\plastic_tech_hq_01_30.mltemplate",
+    "base\\surfaces\\materials\\fabric\\polyester\\polyester_knit_clean_01_30.mltemplate",
+    "base\\surfaces\\microblends\\pattern_camo7.xbm",
+    "base\\surfaces\\materials\\plastic\\plastic_pattern\\plastic_pattern_smooth_01_30.mltemplate",
+    "base\\surfaces\\materials\\fabric\\leather\\leather_standard_clean_01_30.mltemplate",
+    "base\\surfaces\\microblends\\grunge_graffiti_01_100.xbm",
+    "base\\surfaces\\materials\\fabric\\spandex\\spandex_clean_01_30.mltemplate",
+    "base\\surfaces\\microblends\\carbon_fiber.xbm",
+    "base\\surfaces\\microblends\\camo_geo_03.xbm",
+    "engine\\textures\\editor\\normal.xbm",
+    "engine\\materials\\defaults\\multilayer_default.mlmask",
+    "engine\\materials\\defaults\\ml_default_microblend.xbm",
+    "engine\\materials\\defaults\\multilayer_default.mltemplate"
+  ],
+  "MaterialTemplates": [
+    {
+      "Name": "engine\\materials\\multilayered.mt",
+      "Data": {
+        "GlobalNormal": "engine\\textures\\editor\\normal.xbm",
+        "MultilayerMask": "engine\\materials\\defaults\\multilayer_default.mlmask",
+        "MultilayerSetup": "engine\\materials\\defaults\\multilayer_default.mlsetup",
+        "GlobalNormalIntensity": 1,
+        "GlobalNormalUVScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalUVBias": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "MaskAtlas": null,
+        "MaskTiles": null,
+        "Layers": null,
+        "LayersStartIndex": 0,
+        "SurfaceTexAspectRatio": 0,
+        "MaskToTileScale": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "MaskTileSize": 0,
+        "MaskAtlasDims": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "MaskBaseResolution": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "SetupLayerMask": 0,
+        "NormalsTextureDDXYMultiplier": 1,
+        "MicroblendsTextureDDXYMultiplier": 1
+      }
+    },
+    {
+      "Name": "engine\\materials\\metal_base.remt",
+      "Data": {
+        "BaseColor": "engine\\textures\\editor\\grey.xbm",
+        "BaseColorScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "W": 0
+        },
+        "Metalness": "engine\\textures\\editor\\black.xbm",
+        "MetalnessScale": 1,
+        "MetalnessBias": 0,
+        "Roughness": "engine\\textures\\editor\\white.xbm",
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "engine\\textures\\editor\\normal.xbm",
+        "NormalStrength": 1,
+        "AlphaThreshold": 0.38,
+        "Emissive": "engine\\textures\\editor\\black.xbm",
+        "EmissiveLift": 0,
+        "EmissiveEV": 0,
+        "EmissiveEVRaytracingBias": 0,
+        "EmissiveDirectionality": 0,
+        "EnableRaytracedEmissive": 1,
+        "EmissiveColor": {
+          "Red": 0,
+          "Green": 0,
+          "Blue": 0,
+          "Alpha": 255
+        },
+        "LayerTile": 1
+      }
+    }
+  ]
+}

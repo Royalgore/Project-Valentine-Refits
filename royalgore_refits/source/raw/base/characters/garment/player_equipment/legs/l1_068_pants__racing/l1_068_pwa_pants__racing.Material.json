@@ -1,0 +1,1113 @@
+{
+  "MaterialRepo": "D:\\cyberpunk_modding\\008_material_repository",
+  "Materials": [
+    {
+      "Name": "ml_l1_068_ma_pants__racing_masksset",
+      "BaseMaterial": "engine\\materials\\multilayered.mt",
+      "MaterialTemplate": "engine\\materials\\multilayered.mt",
+      "Data": {
+        "GlobalNormal": "base\\characters\\garment\\gang_aldecaldos\\legs\\l1_068_pants__racing\\textures\\l1_068_ma_pants__racing_n01.xbm",
+        "MultilayerMask": "base\\characters\\garment\\gang_aldecaldos\\legs\\l1_068_pants__racing\\textures\\ml_l1_068_ma_pants__racing_purple_masksset.mlmask",
+        "MultilayerSetup": "base\\characters\\garment\\gang_aldecaldos\\legs\\l1_068_pants__racing\\textures\\ml_l1_068_ma_pants__racing_purple.mlsetup",
+        "MaskAtlas": null,
+        "MaskTiles": null,
+        "Layers": null,
+        "SurfaceTexAspectRatio": 0,
+        "MaskTileSize": 0,
+        "MaskToTileScale": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "SetupLayerMask": 0,
+        "MaskAtlasDims": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "MaskBaseResolution": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalIntensity": 1,
+        "GlobalNormalUVScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalUVBias": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "LayersStartIndex": 0,
+        "NormalsTextureDDXYMultiplier": 1,
+        "MicroblendsTextureDDXYMultiplier": 1
+      }
+    },
+    {
+      "Name": "stitches_red",
+      "BaseMaterial": "engine\\materials\\metal_base.remt",
+      "MaterialTemplate": "engine\\materials\\metal_base.remt",
+      "Data": {
+        "BaseColor": "base\\characters\\common\\textures\\decals\\garment_decals_d01.xbm",
+        "Metalness": "engine\\textures\\editor\\black.xbm",
+        "MetalnessScale": 1,
+        "MetalnessBias": 0,
+        "Roughness": "engine\\textures\\editor\\white.xbm",
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "base\\characters\\common\\textures\\decals\\garment_decals_n01.xbm",
+        "AlphaThreshold": 0.38,
+        "Emissive": "engine\\textures\\editor\\black.xbm",
+        "EmissiveColor": {
+          "Red": 0,
+          "Green": 0,
+          "Blue": 0,
+          "Alpha": 255
+        },
+        "LayerTile": 1,
+        "BaseColorScale": {
+          "X": 0.264581,
+          "Y": 0.005778,
+          "Z": 0.005778,
+          "W": 1
+        },
+        "NormalStrength": 1,
+        "EmissiveEV": 0,
+        "EmissiveEVRaytracingBias": 0,
+        "EmissiveDirectionality": 0,
+        "EnableRaytracedEmissive": 1,
+        "EmissiveLift": 0
+      }
+    },
+    {
+      "Name": "stitches_orange",
+      "BaseMaterial": "engine\\materials\\metal_base.remt",
+      "MaterialTemplate": "engine\\materials\\metal_base.remt",
+      "Data": {
+        "BaseColor": "base\\characters\\common\\textures\\decals\\garment_decals_d01.xbm",
+        "Metalness": "engine\\textures\\editor\\black.xbm",
+        "MetalnessScale": 1,
+        "MetalnessBias": 0,
+        "Roughness": "engine\\textures\\editor\\white.xbm",
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "base\\characters\\common\\textures\\decals\\garment_decals_n01.xbm",
+        "AlphaThreshold": 0.38,
+        "Emissive": "engine\\textures\\editor\\black.xbm",
+        "EmissiveColor": {
+          "Red": 0,
+          "Green": 0,
+          "Blue": 0,
+          "Alpha": 255
+        },
+        "LayerTile": 1,
+        "BaseColorScale": {
+          "X": 0.323143,
+          "Y": 0.127438,
+          "Z": 0.008023,
+          "W": 1
+        },
+        "NormalStrength": 1,
+        "EmissiveEV": 0,
+        "EmissiveEVRaytracingBias": 0,
+        "EmissiveDirectionality": 0,
+        "EnableRaytracedEmissive": 1,
+        "EmissiveLift": 0
+      }
+    },
+    {
+      "Name": "ml_l1_068_ma_pants__racing_masksset_moro",
+      "BaseMaterial": "engine\\materials\\multilayered.mt",
+      "MaterialTemplate": "engine\\materials\\multilayered.mt",
+      "Data": {
+        "GlobalNormal": "base\\characters\\garment\\gang_aldecaldos\\legs\\l1_068_pants__racing\\textures\\l1_068_ma_pants__racing_n01.xbm",
+        "MultilayerMask": "base\\characters\\garment\\gang_aldecaldos\\legs\\l1_068_pants__racing\\textures\\ml_l1_068_ma_pants__racing_purple_masksset.mlmask",
+        "MultilayerSetup": "base\\characters\\garment\\gang_aldecaldos\\legs\\l1_068_pants__racing\\textures\\ml_l1_068_ma_pants__racing_moro.mlsetup",
+        "MaskAtlas": null,
+        "MaskTiles": null,
+        "Layers": null,
+        "SurfaceTexAspectRatio": 0,
+        "MaskTileSize": 0,
+        "MaskToTileScale": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "SetupLayerMask": 0,
+        "MaskAtlasDims": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "MaskBaseResolution": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalIntensity": 1,
+        "GlobalNormalUVScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalUVBias": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "LayersStartIndex": 0,
+        "NormalsTextureDDXYMultiplier": 1,
+        "MicroblendsTextureDDXYMultiplier": 1
+      }
+    },
+    {
+      "Name": "ml_l1_068_ma_pants__racing_masksset_yellow",
+      "BaseMaterial": "engine\\materials\\multilayered.mt",
+      "MaterialTemplate": "engine\\materials\\multilayered.mt",
+      "Data": {
+        "GlobalNormal": "base\\characters\\garment\\gang_aldecaldos\\legs\\l1_068_pants__racing\\textures\\l1_068_ma_pants__racing_n01.xbm",
+        "MultilayerMask": "base\\characters\\garment\\gang_aldecaldos\\legs\\l1_068_pants__racing\\textures\\ml_l1_068_ma_pants__racing_purple_masksset.mlmask",
+        "MultilayerSetup": "base\\characters\\garment\\gang_aldecaldos\\legs\\l1_068_pants__racing\\textures\\ml_l1_068_ma_pants__racing_yellow.mlsetup",
+        "MaskAtlas": null,
+        "MaskTiles": null,
+        "Layers": null,
+        "SurfaceTexAspectRatio": 0,
+        "MaskTileSize": 0,
+        "MaskToTileScale": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "SetupLayerMask": 0,
+        "MaskAtlasDims": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "MaskBaseResolution": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalIntensity": 1,
+        "GlobalNormalUVScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalUVBias": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "LayersStartIndex": 0,
+        "NormalsTextureDDXYMultiplier": 1,
+        "MicroblendsTextureDDXYMultiplier": 1
+      }
+    },
+    {
+      "Name": "ml_l1_068_ma_pants__racing_masksset_arcticblue",
+      "BaseMaterial": "engine\\materials\\multilayered.mt",
+      "MaterialTemplate": "engine\\materials\\multilayered.mt",
+      "Data": {
+        "GlobalNormal": "base\\characters\\garment\\gang_aldecaldos\\legs\\l1_068_pants__racing\\textures\\l1_068_ma_pants__racing_n01.xbm",
+        "MultilayerMask": "base\\characters\\garment\\gang_aldecaldos\\legs\\l1_068_pants__racing\\textures\\ml_l1_068_ma_pants__racing_purple_masksset.mlmask",
+        "MultilayerSetup": "base\\characters\\garment\\gang_aldecaldos\\legs\\l1_068_pants__racing\\textures\\ml_l1_068_ma_pants__racing_arcticblue.mlsetup",
+        "MaskAtlas": null,
+        "MaskTiles": null,
+        "Layers": null,
+        "SurfaceTexAspectRatio": 0,
+        "MaskTileSize": 0,
+        "MaskToTileScale": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "SetupLayerMask": 0,
+        "MaskAtlasDims": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "MaskBaseResolution": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalIntensity": 1,
+        "GlobalNormalUVScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalUVBias": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "LayersStartIndex": 0,
+        "NormalsTextureDDXYMultiplier": 1,
+        "MicroblendsTextureDDXYMultiplier": 1
+      }
+    },
+    {
+      "Name": "stitches_black",
+      "BaseMaterial": "engine\\materials\\metal_base.remt",
+      "MaterialTemplate": "engine\\materials\\metal_base.remt",
+      "Data": {
+        "BaseColor": "base\\characters\\common\\textures\\decals\\garment_decals_d01.xbm",
+        "Metalness": "engine\\textures\\editor\\black.xbm",
+        "MetalnessScale": 1,
+        "MetalnessBias": 0,
+        "Roughness": "engine\\textures\\editor\\white.xbm",
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "base\\characters\\common\\textures\\decals\\garment_decals_n01.xbm",
+        "AlphaThreshold": 0.38,
+        "Emissive": "engine\\textures\\editor\\black.xbm",
+        "EmissiveColor": {
+          "Red": 0,
+          "Green": 0,
+          "Blue": 0,
+          "Alpha": 255
+        },
+        "LayerTile": 1,
+        "BaseColorScale": {
+          "X": 0.158961,
+          "Y": 0.158961,
+          "Z": 0.158961,
+          "W": 1
+        },
+        "NormalStrength": 1,
+        "EmissiveEV": 0,
+        "EmissiveEVRaytracingBias": 0,
+        "EmissiveDirectionality": 0,
+        "EnableRaytracedEmissive": 1,
+        "EmissiveLift": 0
+      }
+    },
+    {
+      "Name": "stitches_yellow",
+      "BaseMaterial": "engine\\materials\\metal_base.remt",
+      "MaterialTemplate": "engine\\materials\\metal_base.remt",
+      "Data": {
+        "BaseColor": "base\\characters\\common\\textures\\decals\\garment_decals_d01.xbm",
+        "Metalness": "engine\\textures\\editor\\black.xbm",
+        "MetalnessScale": 1,
+        "MetalnessBias": 0,
+        "Roughness": "engine\\textures\\editor\\white.xbm",
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "base\\characters\\common\\textures\\decals\\garment_decals_n01.xbm",
+        "AlphaThreshold": 0.38,
+        "Emissive": "engine\\textures\\editor\\black.xbm",
+        "EmissiveColor": {
+          "Red": 0,
+          "Green": 0,
+          "Blue": 0,
+          "Alpha": 255
+        },
+        "LayerTile": 1,
+        "BaseColorScale": {
+          "X": 0.313989,
+          "Y": 0.198069,
+          "Z": 0.029557,
+          "W": 1
+        },
+        "NormalStrength": 1,
+        "EmissiveEV": 0,
+        "EmissiveEVRaytracingBias": 0,
+        "EmissiveDirectionality": 0,
+        "EnableRaytracedEmissive": 1,
+        "EmissiveLift": 0
+      }
+    },
+    {
+      "Name": "stitches_blue",
+      "BaseMaterial": "engine\\materials\\metal_base.remt",
+      "MaterialTemplate": "engine\\materials\\metal_base.remt",
+      "Data": {
+        "BaseColor": "base\\characters\\common\\textures\\decals\\garment_decals_d01.xbm",
+        "Metalness": "engine\\textures\\editor\\black.xbm",
+        "MetalnessScale": 1,
+        "MetalnessBias": 0,
+        "Roughness": "engine\\textures\\editor\\white.xbm",
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "base\\characters\\common\\textures\\decals\\garment_decals_n01.xbm",
+        "AlphaThreshold": 0.38,
+        "Emissive": "engine\\textures\\editor\\black.xbm",
+        "EmissiveColor": {
+          "Red": 0,
+          "Green": 0,
+          "Blue": 0,
+          "Alpha": 255
+        },
+        "LayerTile": 1,
+        "BaseColorScale": {
+          "X": 0.082283,
+          "Y": 0.304987,
+          "Z": 0.533277,
+          "W": 1
+        },
+        "NormalStrength": 1,
+        "EmissiveEV": 0,
+        "EmissiveEVRaytracingBias": 0,
+        "EmissiveDirectionality": 0,
+        "EnableRaytracedEmissive": 1,
+        "EmissiveLift": 0
+      }
+    },
+    {
+      "Name": "stitches_green",
+      "BaseMaterial": "engine\\materials\\metal_base.remt",
+      "MaterialTemplate": "engine\\materials\\metal_base.remt",
+      "Data": {
+        "BaseColor": "base\\characters\\common\\textures\\decals\\garment_decals_d01.xbm",
+        "Metalness": "engine\\textures\\editor\\black.xbm",
+        "MetalnessScale": 1,
+        "MetalnessBias": 0,
+        "Roughness": "engine\\textures\\editor\\white.xbm",
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "base\\characters\\common\\textures\\decals\\garment_decals_n01.xbm",
+        "AlphaThreshold": 0.38,
+        "Emissive": "engine\\textures\\editor\\black.xbm",
+        "EmissiveColor": {
+          "Red": 0,
+          "Green": 0,
+          "Blue": 0,
+          "Alpha": 255
+        },
+        "LayerTile": 1,
+        "BaseColorScale": {
+          "X": 0.072272,
+          "Y": 0.212231,
+          "Z": 0.107023,
+          "W": 1
+        },
+        "NormalStrength": 1,
+        "EmissiveEV": 0,
+        "EmissiveEVRaytracingBias": 0,
+        "EmissiveDirectionality": 0,
+        "EnableRaytracedEmissive": 1,
+        "EmissiveLift": 0
+      }
+    },
+    {
+      "Name": "red_purple",
+      "BaseMaterial": "engine\\materials\\multilayered.mt",
+      "MaterialTemplate": "engine\\materials\\multilayered.mt",
+      "Data": {
+        "GlobalNormal": "base\\characters\\garment\\gang_aldecaldos\\legs\\l1_068_pants__racing\\textures\\l1_068_ma_pants__racing_n01.xbm",
+        "MultilayerMask": "base\\characters\\garment\\gang_aldecaldos\\legs\\l1_068_pants__racing\\textures\\ml_l1_068_ma_pants__racing_purple_masksset.mlmask",
+        "MultilayerSetup": "base\\characters\\garment\\gang_aldecaldos\\legs\\l1_068_pants__racing\\textures\\ml_l1_068_ma_pants__racing_red_purple.mlsetup",
+        "MaskAtlas": null,
+        "MaskTiles": null,
+        "Layers": null,
+        "SurfaceTexAspectRatio": 0,
+        "MaskTileSize": 0,
+        "MaskToTileScale": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "SetupLayerMask": 0,
+        "MaskAtlasDims": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "MaskBaseResolution": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalIntensity": 1,
+        "GlobalNormalUVScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalUVBias": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "LayersStartIndex": 0,
+        "NormalsTextureDDXYMultiplier": 1,
+        "MicroblendsTextureDDXYMultiplier": 1
+      }
+    },
+    {
+      "Name": "orange",
+      "BaseMaterial": "engine\\materials\\multilayered.mt",
+      "MaterialTemplate": "engine\\materials\\multilayered.mt",
+      "Data": {
+        "GlobalNormal": "base\\characters\\garment\\gang_aldecaldos\\legs\\l1_068_pants__racing\\textures\\l1_068_ma_pants__racing_n01.xbm",
+        "MultilayerMask": "base\\characters\\garment\\gang_aldecaldos\\legs\\l1_068_pants__racing\\textures\\ml_l1_068_ma_pants__racing_purple_masksset.mlmask",
+        "MultilayerSetup": "base\\characters\\garment\\gang_aldecaldos\\legs\\l1_068_pants__racing\\textures\\ml_l1_068_ma_pants__racing_orange.mlsetup",
+        "MaskAtlas": null,
+        "MaskTiles": null,
+        "Layers": null,
+        "SurfaceTexAspectRatio": 0,
+        "MaskTileSize": 0,
+        "MaskToTileScale": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "SetupLayerMask": 0,
+        "MaskAtlasDims": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "MaskBaseResolution": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalIntensity": 1,
+        "GlobalNormalUVScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalUVBias": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "LayersStartIndex": 0,
+        "NormalsTextureDDXYMultiplier": 1,
+        "MicroblendsTextureDDXYMultiplier": 1
+      }
+    },
+    {
+      "Name": "blue_light",
+      "BaseMaterial": "engine\\materials\\multilayered.mt",
+      "MaterialTemplate": "engine\\materials\\multilayered.mt",
+      "Data": {
+        "GlobalNormal": "base\\characters\\garment\\gang_aldecaldos\\legs\\l1_068_pants__racing\\textures\\l1_068_ma_pants__racing_n01.xbm",
+        "MultilayerMask": "base\\characters\\garment\\gang_aldecaldos\\legs\\l1_068_pants__racing\\textures\\ml_l1_068_ma_pants__racing_purple_masksset.mlmask",
+        "MultilayerSetup": "base\\characters\\garment\\gang_aldecaldos\\legs\\l1_068_pants__racing\\textures\\ml_l1_068_ma_pants__racing_blue_light.mlsetup",
+        "MaskAtlas": null,
+        "MaskTiles": null,
+        "Layers": null,
+        "SurfaceTexAspectRatio": 0,
+        "MaskTileSize": 0,
+        "MaskToTileScale": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "SetupLayerMask": 0,
+        "MaskAtlasDims": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "MaskBaseResolution": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalIntensity": 1,
+        "GlobalNormalUVScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalUVBias": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "LayersStartIndex": 0,
+        "NormalsTextureDDXYMultiplier": 1,
+        "MicroblendsTextureDDXYMultiplier": 1
+      }
+    },
+    {
+      "Name": "nylon_blue_rich",
+      "BaseMaterial": "engine\\materials\\multilayered.mt",
+      "MaterialTemplate": "engine\\materials\\multilayered.mt",
+      "Data": {
+        "GlobalNormal": "base\\characters\\garment\\gang_aldecaldos\\legs\\l1_068_pants__racing\\textures\\l1_068_ma_pants__racing_n01.xbm",
+        "MultilayerMask": "base\\characters\\garment\\gang_aldecaldos\\legs\\l1_068_pants__racing\\textures\\ml_l1_068_ma_pants__racing_purple_masksset.mlmask",
+        "MultilayerSetup": "base\\characters\\garment\\gang_aldecaldos\\legs\\l1_068_pants__racing\\textures\\nylon_blue_rich.mlsetup",
+        "MaskAtlas": null,
+        "MaskTiles": null,
+        "Layers": null,
+        "SurfaceTexAspectRatio": 0,
+        "MaskTileSize": 0,
+        "MaskToTileScale": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "SetupLayerMask": 0,
+        "MaskAtlasDims": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "MaskBaseResolution": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalIntensity": 1,
+        "GlobalNormalUVScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalUVBias": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "LayersStartIndex": 0,
+        "NormalsTextureDDXYMultiplier": 1,
+        "MicroblendsTextureDDXYMultiplier": 1
+      }
+    },
+    {
+      "Name": "carbon_military_rich",
+      "BaseMaterial": "engine\\materials\\multilayered.mt",
+      "MaterialTemplate": "engine\\materials\\multilayered.mt",
+      "Data": {
+        "GlobalNormal": "base\\characters\\garment\\gang_aldecaldos\\legs\\l1_068_pants__racing\\textures\\l1_068_ma_pants__racing_n01.xbm",
+        "MultilayerMask": "base\\characters\\garment\\gang_aldecaldos\\legs\\l1_068_pants__racing\\textures\\ml_l1_068_ma_pants__racing_purple_masksset.mlmask",
+        "MultilayerSetup": "base\\characters\\garment\\gang_aldecaldos\\legs\\l1_068_pants__racing\\textures\\carbon_military_rich.mlsetup",
+        "MaskAtlas": null,
+        "MaskTiles": null,
+        "Layers": null,
+        "SurfaceTexAspectRatio": 0,
+        "MaskTileSize": 0,
+        "MaskToTileScale": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "SetupLayerMask": 0,
+        "MaskAtlasDims": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "MaskBaseResolution": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalIntensity": 1,
+        "GlobalNormalUVScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalUVBias": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "LayersStartIndex": 0,
+        "NormalsTextureDDXYMultiplier": 1,
+        "MicroblendsTextureDDXYMultiplier": 1
+      }
+    },
+    {
+      "Name": "cotton_pink_basic",
+      "BaseMaterial": "engine\\materials\\multilayered.mt",
+      "MaterialTemplate": "engine\\materials\\multilayered.mt",
+      "Data": {
+        "GlobalNormal": "base\\characters\\garment\\gang_aldecaldos\\legs\\l1_068_pants__racing\\textures\\l1_068_ma_pants__racing_n01.xbm",
+        "MultilayerMask": "base\\characters\\garment\\gang_aldecaldos\\legs\\l1_068_pants__racing\\textures\\ml_l1_068_ma_pants__racing_purple_masksset.mlmask",
+        "MultilayerSetup": "base\\characters\\garment\\gang_aldecaldos\\legs\\l1_068_pants__racing\\textures\\cotton_pink_basic.mlsetup",
+        "MaskAtlas": null,
+        "MaskTiles": null,
+        "Layers": null,
+        "SurfaceTexAspectRatio": 0,
+        "MaskTileSize": 0,
+        "MaskToTileScale": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "SetupLayerMask": 0,
+        "MaskAtlasDims": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "MaskBaseResolution": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalIntensity": 1,
+        "GlobalNormalUVScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalUVBias": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "LayersStartIndex": 0,
+        "NormalsTextureDDXYMultiplier": 1,
+        "MicroblendsTextureDDXYMultiplier": 1
+      }
+    },
+    {
+      "Name": "cotton_green_violet",
+      "BaseMaterial": "engine\\materials\\multilayered.mt",
+      "MaterialTemplate": "engine\\materials\\multilayered.mt",
+      "Data": {
+        "GlobalNormal": "base\\characters\\garment\\gang_aldecaldos\\legs\\l1_068_pants__racing\\textures\\l1_068_ma_pants__racing_n01.xbm",
+        "MultilayerMask": "base\\characters\\garment\\gang_aldecaldos\\legs\\l1_068_pants__racing\\textures\\ml_l1_068_ma_pants__racing_purple_masksset.mlmask",
+        "MultilayerSetup": "base\\characters\\garment\\gang_aldecaldos\\legs\\l1_068_pants__racing\\textures\\cotton_green_violet.mlsetup",
+        "MaskAtlas": null,
+        "MaskTiles": null,
+        "Layers": null,
+        "SurfaceTexAspectRatio": 0,
+        "MaskTileSize": 0,
+        "MaskToTileScale": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "SetupLayerMask": 0,
+        "MaskAtlasDims": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "MaskBaseResolution": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalIntensity": 1,
+        "GlobalNormalUVScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalUVBias": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "LayersStartIndex": 0,
+        "NormalsTextureDDXYMultiplier": 1,
+        "MicroblendsTextureDDXYMultiplier": 1
+      }
+    },
+    {
+      "Name": "cotton_orange_worn",
+      "BaseMaterial": "engine\\materials\\multilayered.mt",
+      "MaterialTemplate": "engine\\materials\\multilayered.mt",
+      "Data": {
+        "GlobalNormal": "base\\characters\\garment\\gang_aldecaldos\\legs\\l1_068_pants__racing\\textures\\l1_068_ma_pants__racing_n01.xbm",
+        "MultilayerMask": "base\\characters\\garment\\gang_aldecaldos\\legs\\l1_068_pants__racing\\textures\\ml_l1_068_ma_pants__racing_purple_masksset.mlmask",
+        "MultilayerSetup": "base\\characters\\garment\\gang_aldecaldos\\legs\\l1_068_pants__racing\\textures\\cotton_orange_worn.mlsetup",
+        "MaskAtlas": null,
+        "MaskTiles": null,
+        "Layers": null,
+        "SurfaceTexAspectRatio": 0,
+        "MaskTileSize": 0,
+        "MaskToTileScale": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "SetupLayerMask": 0,
+        "MaskAtlasDims": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "MaskBaseResolution": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalIntensity": 1,
+        "GlobalNormalUVScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalUVBias": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "LayersStartIndex": 0,
+        "NormalsTextureDDXYMultiplier": 1,
+        "MicroblendsTextureDDXYMultiplier": 1
+      }
+    },
+    {
+      "Name": "lambert12",
+      "BaseMaterial": "engine\\materials\\metal_base.remt",
+      "MaterialTemplate": "engine\\materials\\metal_base.remt",
+      "Data": {
+        "BaseColor": "engine\\textures\\editor\\grey.xbm",
+        "Metalness": "engine\\textures\\editor\\black.xbm",
+        "MetalnessScale": 1,
+        "MetalnessBias": 0,
+        "Roughness": "engine\\textures\\editor\\white.xbm",
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "engine\\textures\\editor\\normal.xbm",
+        "AlphaThreshold": 0.38,
+        "Emissive": "engine\\textures\\editor\\black.xbm",
+        "EmissiveColor": {
+          "Red": 0,
+          "Green": 0,
+          "Blue": 0,
+          "Alpha": 255
+        },
+        "LayerTile": 1,
+        "BaseColorScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "W": 0
+        },
+        "NormalStrength": 1,
+        "EmissiveEV": 0,
+        "EmissiveEVRaytracingBias": 0,
+        "EmissiveDirectionality": 0,
+        "EnableRaytracedEmissive": 1,
+        "EmissiveLift": 0
+      }
+    },
+    {
+      "Name": "stitches02",
+      "BaseMaterial": "engine\\materials\\metal_base.remt",
+      "MaterialTemplate": "engine\\materials\\metal_base.remt",
+      "Data": {
+        "BaseColor": "engine\\textures\\editor\\grey.xbm",
+        "Metalness": "engine\\textures\\editor\\black.xbm",
+        "MetalnessScale": 1,
+        "MetalnessBias": 0,
+        "Roughness": "engine\\textures\\editor\\white.xbm",
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "engine\\textures\\editor\\normal.xbm",
+        "AlphaThreshold": 0.38,
+        "Emissive": "engine\\textures\\editor\\black.xbm",
+        "EmissiveColor": {
+          "Red": 0,
+          "Green": 0,
+          "Blue": 0,
+          "Alpha": 255
+        },
+        "LayerTile": 1,
+        "BaseColorScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "W": 0
+        },
+        "NormalStrength": 1,
+        "EmissiveEV": 0,
+        "EmissiveEVRaytracingBias": 0,
+        "EmissiveDirectionality": 0,
+        "EnableRaytracedEmissive": 1,
+        "EmissiveLift": 0
+      }
+    },
+    {
+      "Name": "lambert3",
+      "BaseMaterial": "engine\\materials\\metal_base.remt",
+      "MaterialTemplate": "engine\\materials\\metal_base.remt",
+      "Data": {
+        "BaseColor": "engine\\textures\\editor\\grey.xbm",
+        "Metalness": "engine\\textures\\editor\\black.xbm",
+        "MetalnessScale": 1,
+        "MetalnessBias": 0,
+        "Roughness": "engine\\textures\\editor\\white.xbm",
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "engine\\textures\\editor\\normal.xbm",
+        "AlphaThreshold": 0.38,
+        "Emissive": "engine\\textures\\editor\\black.xbm",
+        "EmissiveColor": {
+          "Red": 0,
+          "Green": 0,
+          "Blue": 0,
+          "Alpha": 255
+        },
+        "LayerTile": 1,
+        "BaseColorScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "W": 0
+        },
+        "NormalStrength": 1,
+        "EmissiveEV": 0,
+        "EmissiveEVRaytracingBias": 0,
+        "EmissiveDirectionality": 0,
+        "EnableRaytracedEmissive": 1,
+        "EmissiveLift": 0
+      }
+    },
+    {
+      "Name": "stitches",
+      "BaseMaterial": "engine\\materials\\metal_base.remt",
+      "MaterialTemplate": "engine\\materials\\metal_base.remt",
+      "Data": {
+        "BaseColor": "engine\\textures\\editor\\grey.xbm",
+        "Metalness": "engine\\textures\\editor\\black.xbm",
+        "MetalnessScale": 1,
+        "MetalnessBias": 0,
+        "Roughness": "engine\\textures\\editor\\white.xbm",
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "engine\\textures\\editor\\normal.xbm",
+        "AlphaThreshold": 0.38,
+        "Emissive": "engine\\textures\\editor\\black.xbm",
+        "EmissiveColor": {
+          "Red": 0,
+          "Green": 0,
+          "Blue": 0,
+          "Alpha": 255
+        },
+        "LayerTile": 1,
+        "BaseColorScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "W": 0
+        },
+        "NormalStrength": 1,
+        "EmissiveEV": 0,
+        "EmissiveEVRaytracingBias": 0,
+        "EmissiveDirectionality": 0,
+        "EnableRaytracedEmissive": 1,
+        "EmissiveLift": 0
+      }
+    }
+  ],
+  "TexturesList": [
+    "base\\surfaces\\microblends\\default.xbm",
+    "base\\surfaces\\materials\\fabric\\spandex\\spandex_clean_01_30.mltemplate",
+    "base\\surfaces\\materials\\fabric\\polyester\\polyester_knit_clean_02_30.mltemplate",
+    "base\\surfaces\\materials\\fabric\\corduroy\\corduroy_clean_01_30.mltemplate",
+    "base\\surfaces\\microblends\\dust_fine.xbm",
+    "base\\surfaces\\materials\\fabric\\denim\\denim_clean_01_30.mltemplate",
+    "base\\surfaces\\materials\\fabric\\nylon\\nylon_strap_02_10.mltemplate",
+    "base\\surfaces\\microblends\\edgewear_01.xbm",
+    "base\\surfaces\\materials\\fabric\\nylon\\nylon_strap_01_10.mltemplate",
+    "base\\surfaces\\materials\\fabric\\leather\\leather_bull_01_30.mltemplate",
+    "base\\surfaces\\materials\\fabric\\leather\\leather_rough_01_30.mltemplate",
+    "base\\surfaces\\materials\\special\\unused.mltemplate",
+    "base\\surfaces\\materials\\fabric\\felt\\felt_clean_01_30.mltemplate",
+    "base\\surfaces\\microblends\\tiles_hex_5x6_interstice.xbm",
+    "base\\surfaces\\microblends\\stripes_horizontal_a.xbm",
+    "base\\surfaces\\materials\\plastic\\plastic_hq\\plastic_tech_hq_01_30.mltemplate",
+    "base\\surfaces\\materials\\grunge\\dust_light\\dust_light_01_50.mltemplate",
+    "base\\surfaces\\microblends\\dirt_stains.xbm",
+    "base\\surfaces\\materials\\ground\\dirt_universal\\dirt_universal_01_300.mltemplate",
+    "base\\surfaces\\microblends\\fine_filth.xbm",
+    "base\\characters\\garment\\gang_aldecaldos\\legs\\l1_068_pants__racing\\textures\\ml_l1_068_ma_pants__racing_purple_masksset.mlmask",
+    "base\\characters\\garment\\gang_aldecaldos\\legs\\l1_068_pants__racing\\textures\\l1_068_ma_pants__racing_n01.xbm",
+    "base\\characters\\common\\textures\\decals\\garment_decals_d01.xbm",
+    "base\\characters\\common\\textures\\decals\\garment_decals_n01.xbm",
+    "base\\surfaces\\microblends\\paint_scratches.xbm",
+    "base\\surfaces\\materials\\plastic\\plastic_tech\\plastic_tech_worn_01_300.mltemplate",
+    "base\\surfaces\\materials\\fabric\\denim\\denim_camo_01_30.mltemplate",
+    "base\\surfaces\\microblends\\zebra01.xbm",
+    "base\\surfaces\\materials\\plastic\\plastic_hq\\rubber_clean_hq_01_30.mltemplate",
+    "base\\surfaces\\materials\\fabric\\velvet\\velvet_clean_01_30.mltemplate",
+    "base\\surfaces\\materials\\fabric\\leather\\leather_holes_01_30.mltemplate",
+    "base\\surfaces\\materials\\metal\\metal_generic_hq\\metal_generic_hq_01_30.mltemplate",
+    "base\\surfaces\\materials\\plastic\\plastic_tech\\plastic_tech_glossy_01_300.mltemplate",
+    "base\\surfaces\\microblends\\pattern_checker.xbm",
+    "base\\surfaces\\materials\\fabric\\nylon\\nylon_metallic_01_30.mltemplate",
+    "base\\surfaces\\materials\\fabric\\cotton_twill\\cotton_twill_clean_01_30.mltemplate",
+    "base\\surfaces\\materials\\fabric\\carbon_fiber\\carbon_fiber_01_30.mltemplate",
+    "base\\surfaces\\materials\\plastic\\rubber_bumper\\rubber_bumper_01_300.mltemplate",
+    "base\\surfaces\\materials\\metal\\brass\\brass_bare_01_300.mltemplate",
+    "base\\surfaces\\materials\\metal\\gold\\gold_bare_01_300.mltemplate",
+    "base\\surfaces\\microblends\\graphics_logos_003.xbm",
+    "base\\surfaces\\microblends\\graphics_logos_004.xbm",
+    "base\\surfaces\\materials\\plastic\\plastic_hard\\plastic_hard_smooth.mltemplate",
+    "base\\surfaces\\materials\\plastic\\plastic_tech\\plastic_tech_01_300.mltemplate",
+    "base\\surfaces\\materials\\metal\\steel\\steel_bare_annodised_01_300.mltemplate",
+    "base\\surfaces\\microblends\\pattern_militarism_01.xbm",
+    "base\\surfaces\\materials\\graphics_logos\\graphics_logos_003.mltemplate",
+    "base\\surfaces\\microblends\\graphics_logos_001.xbm",
+    "base\\surfaces\\materials\\metal\\metal_generic_hq\\metal_generic_cast_hq_01_30.mltemplate",
+    "base\\surfaces\\microblends\\snake_skin_02.xbm",
+    "base\\surfaces\\microblends\\stripes_hazard_a.xbm",
+    "base\\surfaces\\microblends\\tiles_30x30.xbm",
+    "base\\surfaces\\materials\\plastic\\plastic_scraped\\plastic_scraped_textured_01_300.mltemplate",
+    "base\\surfaces\\microblends\\pattern_organic_01.xbm",
+    "base\\surfaces\\microblends\\leopard01.xbm",
+    "engine\\textures\\editor\\normal.xbm",
+    "engine\\materials\\defaults\\multilayer_default.mlmask",
+    "engine\\materials\\defaults\\ml_default_microblend.xbm",
+    "engine\\materials\\defaults\\multilayer_default.mltemplate",
+    "engine\\textures\\editor\\grey.xbm",
+    "engine\\textures\\editor\\black.xbm",
+    "engine\\textures\\editor\\white.xbm"
+  ],
+  "MaterialTemplates": [
+    {
+      "Name": "engine\\materials\\multilayered.mt",
+      "Data": {
+        "GlobalNormal": "engine\\textures\\editor\\normal.xbm",
+        "MultilayerMask": "engine\\materials\\defaults\\multilayer_default.mlmask",
+        "MultilayerSetup": "engine\\materials\\defaults\\multilayer_default.mlsetup",
+        "GlobalNormalIntensity": 1,
+        "GlobalNormalUVScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "W": 0
+        },
+        "GlobalNormalUVBias": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "MaskAtlas": null,
+        "MaskTiles": null,
+        "Layers": null,
+        "LayersStartIndex": 0,
+        "SurfaceTexAspectRatio": 0,
+        "MaskToTileScale": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "MaskTileSize": 0,
+        "MaskAtlasDims": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "MaskBaseResolution": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 0
+        },
+        "SetupLayerMask": 0,
+        "NormalsTextureDDXYMultiplier": 1,
+        "MicroblendsTextureDDXYMultiplier": 1
+      }
+    },
+    {
+      "Name": "engine\\materials\\metal_base.remt",
+      "Data": {
+        "BaseColor": "engine\\textures\\editor\\grey.xbm",
+        "BaseColorScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "W": 0
+        },
+        "Metalness": "engine\\textures\\editor\\black.xbm",
+        "MetalnessScale": 1,
+        "MetalnessBias": 0,
+        "Roughness": "engine\\textures\\editor\\white.xbm",
+        "RoughnessScale": 1,
+        "RoughnessBias": 0,
+        "Normal": "engine\\textures\\editor\\normal.xbm",
+        "NormalStrength": 1,
+        "AlphaThreshold": 0.38,
+        "Emissive": "engine\\textures\\editor\\black.xbm",
+        "EmissiveLift": 0,
+        "EmissiveEV": 0,
+        "EmissiveEVRaytracingBias": 0,
+        "EmissiveDirectionality": 0,
+        "EnableRaytracedEmissive": 1,
+        "EmissiveColor": {
+          "Red": 0,
+          "Green": 0,
+          "Blue": 0,
+          "Alpha": 255
+        },
+        "LayerTile": 1
+      }
+    }
+  ]
+}
